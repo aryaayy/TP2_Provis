@@ -1,8 +1,8 @@
 # TP2_Provis
 
-NIM      : 2203484
-Nama     : Arya Aydin Margono
-Kelas    : C1
+NIM      : 2203484<br>
+Nama     : Arya Aydin Margono<br>
+Kelas    : C1<br>
 Kelompok : 3
 
 ## Penjelasan
